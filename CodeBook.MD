@@ -48,7 +48,7 @@ All variables in the output dataset are named using [CamelCase notation](http://
 **frequencyBodyAccelerationMagnitude**:  result of FFT applied to the Euclidian magnitude of body motion signal from accelerometer sensor   
 **frequencyBodyAccelerationX(Y,Z)**: result of FFT applied to the body motion signal from accelerometer sensor on axis X (Y, Z)    
 **frequencyBodyGyroJerkMagnitude**: result of FFT applied to the Euclidian magnitude of body jerk signal from gyroscope sensor  
-**frequencyBodyGyroMagnitude**: result of FFT applied to the Euclidian magnitude of body motion signal from gyroscope sensor 
+**frequencyBodyGyroMagnitude**: result of FFT applied to the Euclidian magnitude of body motion signal from gyroscope sensor  
 **frequencyBodyGyroX(Y,Z)**: result of FFT applied to the body motion signal from gyroscope sensor on axis X (Y, Z)   
 **timeBodyAccelerationJerkMagnitude**: Euclidian magnitude of body jerk signal from accelerometer sensor  
 **timeBodyAccelerationJerkX(Y,Z)**: Body jerk signal from accelerometer sensor on axis X (Y, Z)  
